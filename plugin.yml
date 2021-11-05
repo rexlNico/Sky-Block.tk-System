@@ -1,0 +1,7 @@
+main: de.rexlManu.System.Main
+author: rexlManu
+name: System
+version: 1.0
+commands:
+  island:
+    aliases: is
